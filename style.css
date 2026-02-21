@@ -145,8 +145,8 @@ footer {
 
 /* Estilo para el enlace de correo */
 .link-correo {
-    color: #e0e0e0;
-    /* Color gris claro como tu texto normal */
+    color: #fa0202;
+    /* Color gris claro  */
     text-decoration: none;
     /* Quitamos el subrayado */
     transition: all 0.3s ease;
@@ -156,7 +156,7 @@ footer {
 /* EFECTO HOVER: Efecto rojo al pasar el mouse */
 .link-correo:hover {
     color: #fa0202;
-    /* Tu rojo personalizado */
+    /*Rojo personalizado */
     text-decoration: underline;
     /* Aparece el subrayado solo al tocarlo */
 }
